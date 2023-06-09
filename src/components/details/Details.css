@@ -1,0 +1,69 @@
+@media screen and (min-width: 360px) {
+  .content3 {
+    background-color: bisque;
+    height: 505px;
+    width: 356px;
+    border-radius: 35px;
+    margin-top: 40px;
+  }
+  .select {
+    display: flex;
+  }
+  button {
+    margin: 13px;
+  }
+  .btn-secondary.focus,
+  .btn-secondary:focus {
+    color: black;
+    background-color: white;
+    border-style: none;
+  }
+  .btn-secondary:not(:disabled):not(.disabled).active,
+  .btn-secondary:not(:disabled):not(.disabled):active,
+  .show > .btn-secondary.dropdown-toggle {
+    color: black;
+    background-color: white;
+    border-style: none;
+  }
+  .btn-secondary.focus,
+  .btn-secondary:focus {
+    color: black;
+    background-color: white;
+    border-color: none;
+    /* box-shadow: 0 0 0 0.2rem rgba(130,138,145,.5); */
+  }
+  .btn-secondary {
+    color: black;
+    background-color: white;
+    border-style: none;
+  }
+  .photo {
+    display: flex;
+  }
+  .size {
+    height: 30px;
+    font-size: 25px;
+    border: none;
+    margin-top: 0rem;
+  }
+  .record {
+    display: flex;
+  }
+  .des {
+    height: 75px;
+    width: 300px;
+  }
+  .container,
+  .container-fluid,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 10px;
+  }
+}

@@ -1,0 +1,61 @@
+@media screen and (min-width: 360px) {
+  .title {
+    text-align: center;
+    background-color: rgb(250, 62, 62);
+    margin-left: 23px;
+    margin-right: 21px;
+    border-radius: 8px;
+    margin-top: 40px;
+    color: white;
+    height: 60px;
+    font-size: 2rem;
+  }
+  .cus {
+    text-align: center;
+  }
+  .content {
+    background-color: bisque;
+    width: 355px;
+    height: 480px;
+    border-radius: 35px;
+    display: flex;
+    align-items: center;
+    margin-left: 3px;
+  }
+  .info {
+    width: fit-content;
+    height: fit-content;
+  }
+  .bill {
+    display: flex;
+  }
+  .ima {
+    height: 16px;
+    width: 16px;
+    margin-top: 20px;
+  }
+  p {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+  }
+  .bar {
+    height: 35px;
+    font-size: 30px;
+    border: none;
+  }
+  .next {
+    display: flex;
+  }
+  .fa {
+    margin-top: 20px;
+    margin-left: 4px;
+    font-size: 22px;
+  }
+  .ne {
+    margin-top: 20px;
+  }
+  footer {
+    margin-top: 40px;
+    margin-left: 250px;
+  }
+}

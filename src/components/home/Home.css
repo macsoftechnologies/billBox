@@ -1,0 +1,28 @@
+@media screen and (min-width: 360px) {
+  .title1 {
+    text-align: center;
+    background-color: rgb(37, 100, 217);
+    margin-left: 70px;
+    margin-right: 70px;
+    border-radius: 8px;
+    margin-top: 20px;
+    color: white;
+  }
+  .content1 {
+    background-color: rgb(244, 86, 163);
+    height: 400px;
+    width: 356px;
+    border-radius: 35px;
+    margin-top: 40px;
+  }
+  .button {
+    background-color: rgb(241, 241, 227);
+    margin-top: 135px;
+    border-radius: 20px;
+    margin: 35px 25px;
+    height: 125px;
+    font-family: Serif;
+    font-size: 20px;
+    border: none;
+  }
+}

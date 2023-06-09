@@ -1,0 +1,42 @@
+@media screen and (min-width: 360px) {
+  .content5 {
+    background-color: bisque;
+    height: 570px;
+    width: 356px;
+    border-radius: 35px;
+    display: flex;
+    flex-direction: column;
+  }
+  .ima1 {
+    height: 100px;
+    width: 105px;
+    border: groove;
+    border-radius: 8px;
+    margin-top: 45px;
+    margin-right: 12px;
+  }
+  .shadow {
+    position: absolute;
+    display: flex;
+    top: 130px;
+    left: 10px;
+    width: 337px;
+    height: 242px;
+  }
+  .shadow1 {
+    position: absolute;
+    display: flex;
+    top: 385px;
+    left: 10px;
+    width: 337px;
+    height: 227px;
+  }
+  .end {
+    position: fixed;
+    color: black;
+    bottom: 50px;
+    left: 235px;
+    font-size: 20px;
+    width: 100%;
+  }
+}

@@ -1,0 +1,28 @@
+@media screen and (min-width: 360px) {
+  .title2 {
+    text-align: center;
+    background-color: rgb(40 60 98);
+    margin-left: 23px;
+    margin-right: 21px;
+    border-radius: 8px;
+    margin-top: 40px;
+    color: white;
+    font-size: 2rem;
+  }
+  .cus {
+    text-align: center;
+  }
+  .content2 {
+    background-color: bisque;
+    height: 480px;
+    width: 356px;
+    border-radius: 35px;
+    /* margin-top: 40px; */
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  .add {
+    font-size: 26px;
+  }
+}
